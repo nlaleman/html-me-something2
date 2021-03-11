@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+  }
+  .image {
+    flex-basis: 40%
+  }
+  .text {
+      flex-basis: 60%
+  }
+.container2 {
+    display: flex;
+}
+    .image2 {
+        flex-basis: 50%
+    }
+.container3 {
+    display: flex;
+}
+    .image3 {
+        flex-basis: 65%
+    }
+    .image4 {
+        flex-basis: 35%
+    }
