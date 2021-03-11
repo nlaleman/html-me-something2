@@ -1,3 +1,12 @@
+body{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 25px;
+}
+img{
+    padding-top: 20px;
+}
 .container {
     display: flex;
   }
@@ -22,3 +31,19 @@
     .image4 {
         flex-basis: 35%
     }
+h1 {
+    font-size: 75px;
+    text-align: center;
+}
+#list-text {
+    font-size: 25px;
+}
+h2 {
+    font-size: 40px;
+}
+h3 {
+    font-size: 25px;
+}
+figcaption {
+    font-style: italic;
+}
